@@ -2,6 +2,7 @@
 title: Justice League
 date: '2017-08-14 20:08:08 -0700'
 slug: justice-league
+thumbnail: /images/GitHub.svg
 ---
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
 
