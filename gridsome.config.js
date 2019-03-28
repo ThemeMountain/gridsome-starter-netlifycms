@@ -3,7 +3,7 @@ module.exports = {
 	siteUrl: 'https://www.gridsome.org',
 	siteDescription: 'Gridsome is a blazing-fast static site generator...',
 	titleTemplate: `%s - Gridsome`,
-	
+	site_id: 'net-cms',
 	plugins: [
 		{
 			use: '@gridsome/source-filesystem',
@@ -12,6 +12,12 @@ module.exports = {
 				typeName: 'BlogPost',
 				route: '/blog/:slug'
 			}
-		}
-	]
-}
+		},
+		{
+			use: `gridsome-plugin-netlify-cms`,
+			options: {
+				publicPath: `/admin`
+			}
+		},
+		]
+	}

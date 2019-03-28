@@ -18,9 +18,9 @@
   import Blog from '~/components/Blog.vue';
   import Contact from '~/components/Contact.vue';
   import Footer from '~/components/Footer.vue';
-  
+
   export default {
-    components: { 
+    components: {
       Header,
       Hero,
       Portfolio,
