@@ -8,7 +8,7 @@ backend:
 publish_mode: editorial_workflow
 
 media_folder: "static/images"
-public_folder: "static/images"
+public_folder: "images"
 
 collections:
   - name: "blogs"
@@ -20,6 +20,7 @@ collections:
       - { label: "title", name: "title", widget: "string" }
       - { label: "date", name: "date", widget: "date" }
       - { label: "slug", name: "slug", widget: "string" }
+      - { label: "Thumbnail", name: "thumbnail", widget: "image" }
       - { label: "body", name: "body", widget: "markdown" }
 
   - name: "data"
