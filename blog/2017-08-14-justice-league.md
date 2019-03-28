@@ -6,7 +6,7 @@ thumbnail: /images/GitHub.svg
 ---
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
 
-![](/static/images/galina-n-200668-unsplash.jpg)
+![](/images/galina-n-200668-unsplash.jpg)
 
  ligula eget dolor. Aenean massa.
 
