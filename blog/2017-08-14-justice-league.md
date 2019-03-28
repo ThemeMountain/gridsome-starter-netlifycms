@@ -1,10 +1,13 @@
 ---
 title: Justice League
-date: 2017-08-14 20:08:08 -0700
+date: '2017-08-14 20:08:08 -0700'
 slug: justice-league
 ---
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+![](/static/images/galina-n-200668-unsplash.jpg)
+
+ ligula eget dolor. Aenean massa.
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 
